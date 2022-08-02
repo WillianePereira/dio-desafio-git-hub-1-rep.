@@ -1,4 +1,4 @@
-# dio-desafio-git-hub-1-rep.
+# dio-desafio-git-hub-1-rep
 repositorio  criado para desafio de projeto.
 
 ## Links úteis
